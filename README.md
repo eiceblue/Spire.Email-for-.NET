@@ -4,7 +4,7 @@ Spire.Email for .NET is a professional .NET Email library specially designed for
 
 Spire.Emails for .NET enables developers to create, edit and send out the message contents with attachments. Spire.Email for .NET supports to work with a number of Outlook email message formats, such as MSG, EML, EMLX, MHTML, PST, OST and TNEF files. Developers can use Spire.Email to receive message and get the detail information of the message, such as get mailbox information, get the message count, size, list, sequence number and the unique ID.
 
-<h1>Main Functions</h1>
+<h3>Main Functions</h3>
 
 <b>Only Spire.Email, No Microsoft Office Automation</b>
 
